@@ -1,0 +1,25 @@
+Zoo Arrival Report 
+
+Bears (4 total):
+Bear (male, 7 yrs, born in spring, brown, from Alaska Zoo, Alaska)
+Bear (female, 25 yrs, born in spring, black, from Woodland park Zoo, Washington )
+Bear (female, 4 yrs, born in fall, black, from Woodland park Zoo, Washington )
+Bear (male, 4 yrs, born in spring, brown, from Alaska Zoo, Alaska)
+
+Hyenas (3 total):
+Hyena (female, 4 yrs, born in spring, tan, from Friguia Park, Tunisia)
+Hyena (male, 12 yrs, born in fall, brown, from Friguia Park, Tunisia)
+Hyena (male, 4 yrs, born in spring, black, from Friguia Park, Tunisia)
+
+Lions (4 total):
+Lion (female, 6 yrs, born in spring, tan, from Zanzibar, Tanzania)
+Lion (female, 12 yrs, born in winter, dark tan, from KopeLion, Tanzania)
+Lion (male, 22 yrs, born in fall, golden, from Zanzibar, Tanzania)
+Lion (female, 4 yrs, born in spring, tan and brown, from KopeLion, Tanzania)
+
+Tigers (4 total):
+Tiger (male, 2 yrs, born in spring, gold and tan stripes, from Dhaka, Bangladesh)
+Tiger (female, 4 yrs, born in spring, black stripes, from Dhaka, Bangladesh)
+Tiger (male, 18 yrs, born in fall, gold and tan, from Bardia, Nepal)
+Tiger (female, 3 yrs, born in spring, black stripes, from Bardia, Nepal)
+
